@@ -555,5 +555,6 @@ void SetTitleState(TITLESTATE state, int nCounter)
 //===================================================
 TITLESTATE GetTitleState(void)
 {
+	//aaaa
 	return g_TitleState;
 }

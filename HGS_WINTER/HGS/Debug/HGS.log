@@ -1,3 +1,13 @@
-﻿  game.cpp
-  HGS.vcxproj -> C:\Users\student\Desktop\HGS_WINTER\HGS\Debug\HGS.exe
-  HGS.vcxproj -> C:\Users\student\Desktop\HGS_WINTER\HGS\Debug\HGS.pdb (Full PDB)
+﻿  tutorial.cpp
+  title.cpp
+  sound.cpp
+  ranking.cpp
+  pause.cpp
+  main.cpp
+  input.cpp
+  game.cpp
+  fade.cpp
+  debugproc.cpp
+  コードを生成中...
+  HGS.vcxproj -> C:\Users\student\Desktop\HGS_github\HGS_WINTER\HGS\Debug\HGS.exe
+  HGS.vcxproj -> C:\Users\student\Desktop\HGS_github\HGS_WINTER\HGS\Debug\HGS.pdb (Full PDB)
